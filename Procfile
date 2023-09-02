@@ -1,1 +1,1 @@
-web: gunicorn app:pi_b
+worker: python:pi_b.py
